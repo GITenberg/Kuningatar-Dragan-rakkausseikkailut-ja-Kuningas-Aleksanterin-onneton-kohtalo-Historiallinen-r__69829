@@ -1,0 +1,42 @@
+_repo: Kuningatar-Dragan-rakkausseikkailut-ja-Kuningas-Aleksanterin-onneton-kohtalo-Historiallinen-r__69829
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Granit, Tilda
+    alias: Granit, Thilda
+    gutenberg_agent_id: '55443'
+    url: http://www.gutenberg.org/2009/agents/55443
+creator:
+  author:
+    agent_name: Falk, Victor von
+    aliases:
+    - Falk, Viktor von
+    - Sochaczewsky, Heinrich
+    - Scheff, Harry
+    - Schefsky, H. H.
+    - Schefsky, Hans Heinrich
+    birthdate: 1861
+    deathdate: 1922
+    gutenberg_agent_id: '55442'
+    url: http://www.gutenberg.org/2009/agents/55442
+description: ''
+gutenberg_issued: '2023-01-18'
+identifiers:
+  gutenberg: '69829'
+language: fi
+pgterms:marc905: 20211116080345vonfalk
+pgterms:marc906: '1903'
+pgterms:marc907: FI
+production_note: Johanna Kankaanpää and Tapio Riikonen
+publication_note: 'Finland: Otto Andersin, kustantaja,1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: "Kuningatar Dragan rakkausseikkailut ja Kuningas Aleksanterin onneton kohtalo\r\
+  \nHistoriallinen romaani erään hoviherran muistiinpanojen mukaan"
+url: http://www.gutenberg.org/ebooks/69829

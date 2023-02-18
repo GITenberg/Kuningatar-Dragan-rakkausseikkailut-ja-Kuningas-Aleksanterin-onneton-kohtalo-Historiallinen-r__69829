@@ -6,6 +6,9 @@ contributor:
     alias: Granit, Thilda
     gutenberg_agent_id: '55443'
     url: http://www.gutenberg.org/2009/agents/55443
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Falk, Victor von
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '55442'
     url: http://www.gutenberg.org/2009/agents/55442
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69829#Kuningatar-Dragan-rakkausseikkailut-ja-Kuningas-Aleksanterin-onneton-kohtalo-Historiallinen-r_
 gutenberg_issued: '2023-01-18'
 identifiers:
   gutenberg: '69829'
